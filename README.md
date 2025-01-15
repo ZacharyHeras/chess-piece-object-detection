@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 This project is based on the following key references:
 
-1. **OpenCV Tutorial**:  
-   [OpenCV Python Tutorial](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+1. **OpenCV Documentation**:  
+   [OpenCV Python Documentation](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 
-2. **PyTorch Vision Detection References**:  
+2. **PyTorch Vision Detection Code References**:  
    [PyTorch Vision Detection](https://github.com/pytorch/vision/tree/main/references/detection)
