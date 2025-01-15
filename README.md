@@ -1,0 +1,1 @@
+# chess-piece-object-detection
