@@ -16,8 +16,8 @@ This mini-project consists of three main files:
 To use this repository, you must first create a virtual environment using Python 3.10.12. Then, install the required dependencies from the `requirements.txt` file.
 
 ```bash
-python3.10 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate.bat`
 pip install -r requirements.txt
 ```
 
