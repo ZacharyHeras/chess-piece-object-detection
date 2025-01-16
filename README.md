@@ -21,7 +21,15 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate.bat`
 pip install -r requirements.txt
 ```
 
-# Primary References
+## Old Project Notice
+This project is older and is provided for reference purposes. It is not actively maintained, and was last updated in 2022.
+
+## Output
+Below is an sample output showing the model detecting and classifying chess pieces:
+
+![](https://github.com/ZacharyHeras/chess-piece-object-detection/blob/main/output.png)
+
+## Primary References
 
 This project is based on the following key references:
 
@@ -32,11 +40,3 @@ This project is based on the following key references:
    [PyTorch Vision Detection](https://github.com/pytorch/vision/tree/main/references/detection)
 
 `coco_eval.py`, `coco_utils.py`, `engine.py`, `transforms.py`, and `utils.py`, are directly from the Pytorch's reference listed above.
-
-## Old Project Notice
-This project is older and is provided for reference purposes. It is not actively maintained, and was last updated in 2022.
-
-## Output
-Below is an sample output showing the model detecting and classifying chess pieces:
-
-![](https://github.com/ZacharyHeras/chess-piece-object-detection/blob/main/output.png)
