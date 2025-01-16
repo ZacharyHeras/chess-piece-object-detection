@@ -1,5 +1,8 @@
 # Chess Piece Detection Project
 
+## Old Project Notice
+This project is older and is provided for reference purposes. It is not actively maintained, and was last updated in 2022.
+
 This mini-project consists of three main files:
 
 1. **finetune_faster_rcnn.py**:  
@@ -20,9 +23,6 @@ python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate.bat`
 pip install -r requirements.txt
 ```
-
-## Old Project Notice
-This project is older and is provided for reference purposes. It is not actively maintained, and was last updated in 2022.
 
 ## Output
 Below is an sample output showing the model detecting and classifying chess pieces:
