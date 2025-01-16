@@ -30,3 +30,10 @@ This project is based on the following key references:
 
 2. **PyTorch Vision Detection Code References**:  
    [PyTorch Vision Detection](https://github.com/pytorch/vision/tree/main/references/detection)
+
+## Old Project Notice
+This project is older and is provided for reference purposes. It is not actively maintained, and was last updated in 2022.
+
+## Output
+Below is an sample output showing the model detecting and classifying chess pieces:
+![](https://github.com/ZacharyHeras/chess-piece-object-detection/blob/main/output.png)
