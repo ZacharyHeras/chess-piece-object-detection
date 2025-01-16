@@ -38,4 +38,5 @@ This project is older and is provided for reference purposes. It is not actively
 
 ## Output
 Below is an sample output showing the model detecting and classifying chess pieces:
+
 ![](https://github.com/ZacharyHeras/chess-piece-object-detection/blob/main/output.png)
